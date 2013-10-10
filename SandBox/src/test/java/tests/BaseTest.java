@@ -1,7 +1,5 @@
 package tests;
 
-import com.sun.javafx.collections.transformation.SortableList;
-import com.sun.javafx.collections.transformation.SortedList;
 import org.testng.annotations.Test;
 
 import java.util.SortedSet;
@@ -22,6 +20,9 @@ public class BaseTest {
         sortedSet.add("b");
         sortedSet.add("a");
         System.out.print(sortedSet);
+        /**
+         * XyeTa
+         */
 
     }
 
